@@ -10,44 +10,13 @@
             "num": 1,
             "sounds": [
                 {
-                    "name": "فارس عباد",
-                    "url": "https://download.quranicaudio.com/quran/fares/001.mp3"
+   "name": "ريان",
+                    "url": "https://t.me/Qurane_tv/13217"
                 },
-                {
-                    "name": "محمد المنشاوي",
-                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/001.mp3"
-                },
-                {
-                    "name": "سعد الغامدي",
-                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/001.mp3"
-                },
-                {
-                    "name": "عبد الباسط عبد الصمد",
-                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/001.mp3"
-                },
-                {
-                    "name": "محمود الحصري",
-                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/001.mp3"
-                },
-                {
-                    "name": "ماهر المعيقلي",
-                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/001.mp3"
-                },
-                {
-                    "name": "عبد الرحمن السديس",
-                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/001.mp3"
-                },
-                {
-                    "name": "احمد العجمي",
-                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/001.mp3"
-                },
-                {
-                    "name": "مشاري راشد العفاسي",
-                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3"
-                },
-                {
-                    "name": "ياسر الدوسري",
-                    "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/001.mp3"
+                {                 
+
+                    "name": "عادل بن عبدالله ريان",
+                    "url": "https://t.me/Qurane_tv/13230"
                 }
             ],
             "surah": "الفاتحة"
@@ -56,42 +25,11 @@
             "num": 2,
             "sounds": [
                 {
-                    "name": "فارس عباد",
-                    "url": "https://download.quranicaudio.com/quran/fares/002.mp3"
+                    "name": "عادل بن عبدالله ريان",
+                    "url": "https://t.me/Qurane_tv/13231"
                 },
                 {
-                    "name": "محمد المنشاوي",
-                    "url": "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/002.mp3"
-                },
-                {
-                    "name": "سعد الغامدي",
-                    "url": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/002.mp3"
-                },
-                {
-                    "name": "عبد الباسط عبد الصمد",
-                    "url": "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/002.mp3"
-                },
-                {
-                    "name": "محمود الحصري",
-                    "url": "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree_iza3a/002.mp3"
-                },
-                {
-                    "name": "ماهر المعيقلي",
-                    "url": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/002.mp3"
-                },
-                {
-                    "name": "عبد الرحمن السديس",
-                    "url": "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/002.mp3"
-                },
-                {
-                    "name": "احمد العجمي",
-                    "url": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/002.mp3"
-                },
-                {
-                    "name": "مشاري راشد العفاسي",
-                    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/002.mp3"
-                },
-                {
+            
                     "name": "ياسر الدوسري",
                     "url": "https://download.quranicaudio.com/quran/yasser_ad-dussary/002.mp3"
                 }
